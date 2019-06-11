@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/03 15:34:45.000.612,=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 16:38:39.000.329,=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 16:39:54.000.400,F:\Projetos\MenusApp\uPrincipal.dfm=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/05/07 16:39:54.000.400,F:\Projetos\MenusApp\uPrincipal.pas=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 16:40:02.000.034,F:\Projetos\MenusApp\MeuApp.dproj=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/05/07 16:48:02.000.911,=F:\Projetos\MenusApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 16:48:53.000.232,F:\Projetos\MenusApp\uCalendario.pas=F:\Projetos\MenusApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 16:48:53.000.232,F:\Projetos\MenusApp\uCalendario.dfm=F:\Projetos\MenusApp\Unit1.dfm</Transaction>
+    <Transaction>2019/05/07 17:05:38.000.146,=F:\Projetos\MenusApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 17:06:53.000.053,F:\Projetos\MenusApp\Unit1.dfm=F:\Projetos\MenusApp\uTabuadas.dfm</Transaction>
+    <Transaction>2019/05/07 17:06:53.000.053,F:\Projetos\MenusApp\Unit1.pas=F:\Projetos\MenusApp\uTabuadas.pas</Transaction>
+    <Transaction>2019/05/07 17:54:19.000.224,=F:\Projetos\MenusApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 17:54:58.000.538,F:\Projetos\MenusApp\Unit1.pas=F:\Projetos\MenusApp\uTriangulo.pas</Transaction>
+    <Transaction>2019/05/07 17:54:58.000.538,F:\Projetos\MenusApp\Unit1.dfm=F:\Projetos\MenusApp\uTriangulo.dfm</Transaction>
+    <Transaction>2019/05/13 20:32:49.000.365,=F:\Projetos\FigurasGeométricas\untCirculo.pas</Transaction>
+    <Transaction>2019/05/13 20:33:49.000.830,F:\Projetos\FigurasGeométricas\untCirculo.pas=</Transaction>
+    <Transaction>2019/05/14 19:52:31.000.212,=C:\Users\Aluno-E1\Desktop\MeuApp_V1\Unit1.pas</Transaction>
+    <Transaction>2019/05/14 19:54:26.000.271,C:\Users\Aluno-E1\Desktop\MeuApp_V1\uCalendario.pas=</Transaction>
+    <Transaction>2019/05/14 19:54:35.000.683,=C:\Users\Aluno-E1\Desktop\MeuApp_V1\Unit2.pas</Transaction>
+    <Transaction>2019/05/14 19:55:17.000.314,C:\Users\Aluno-E1\Desktop\MeuApp_V1\Unit1.dfm=C:\Users\Aluno-E1\Desktop\MeuApp_V1\uCalendario.dfm</Transaction>
+    <Transaction>2019/05/14 19:55:17.000.314,C:\Users\Aluno-E1\Desktop\MeuApp_V1\Unit1.pas=C:\Users\Aluno-E1\Desktop\MeuApp_V1\uCalendario.pas</Transaction>
+    <Transaction>2019/05/14 20:13:35.000.909,=C:\Users\Aluno-E1\Desktop\MeuApp_V1\Unit1.pas</Transaction>
+    <Transaction>2019/05/14 20:24:44.000.927,C:\Users\Aluno-E1\Desktop\MeuApp_V1\Unit1.pas=C:\Users\Aluno-E1\Desktop\MeuApp_V1\uImc.pas</Transaction>
+    <Transaction>2019/05/14 20:24:44.000.927,C:\Users\Aluno-E1\Desktop\MeuApp_V1\Unit1.dfm=C:\Users\Aluno-E1\Desktop\MeuApp_V1\uImc.dfm</Transaction>
+    <Transaction>2019/05/24 19:14:26.000.756,=C:\Users\Aluno\Desktop\App\MeuApp_V1\Unit1.pas</Transaction>
+    <Transaction>2019/05/24 19:27:19.000.520,C:\Users\Aluno\Desktop\App\MeuApp_V1\uVolumec.dfm=C:\Users\Aluno\Desktop\App\MeuApp_V1\Unit1.dfm</Transaction>
+    <Transaction>2019/05/24 19:27:19.000.520,C:\Users\Aluno\Desktop\App\MeuApp_V1\uVolumec.pas=C:\Users\Aluno\Desktop\App\MeuApp_V1\Unit1.pas</Transaction>
+    <Transaction>2019/05/24 20:14:32.000.349,=C:\Users\Aluno\Desktop\App\MeuApp_V3\Unit1.pas</Transaction>
+    <Transaction>2019/05/24 20:23:12.000.088,C:\Users\Aluno\Desktop\App\MeuApp_V3\Unit1.dfm=C:\Users\Aluno\Desktop\App\MeuApp_V3\uVolpr.dfm</Transaction>
+    <Transaction>2019/05/24 20:23:12.000.087,C:\Users\Aluno\Desktop\App\MeuApp_V3\Unit1.pas=C:\Users\Aluno\Desktop\App\MeuApp_V3\uVolpr.pas</Transaction>
+    <Transaction>2019/05/24 20:58:14.000.602,=C:\Users\Aluno\Desktop\App\MeuApp_V4 (incompleto)\Unit1.pas</Transaction>
+    <Transaction>2019/05/24 20:59:05.000.434,C:\Users\Aluno\Desktop\App\MeuApp_V4 (incompleto)\uVolpt.pas=C:\Users\Aluno\Desktop\App\MeuApp_V4 (incompleto)\Unit1.pas</Transaction>
+    <Transaction>2019/05/24 20:59:05.000.434,C:\Users\Aluno\Desktop\App\MeuApp_V4 (incompleto)\uVolpt.dfm=C:\Users\Aluno\Desktop\App\MeuApp_V4 (incompleto)\Unit1.dfm</Transaction>
+    <Transaction>2019/05/28 19:13:22.000.678,=C:\Users\Aluno-E1\Desktop\MeuApp_V4\Unit1.pas</Transaction>
+    <Transaction>2019/05/28 19:21:45.000.948,C:\Users\Aluno-E1\Desktop\MeuApp_V4\Unit1.pas=C:\Users\Aluno-E1\Desktop\MeuApp_V4\uVolcone.pas</Transaction>
+    <Transaction>2019/05/28 19:21:45.000.948,C:\Users\Aluno-E1\Desktop\MeuApp_V4\Unit1.dfm=C:\Users\Aluno-E1\Desktop\MeuApp_V4\uVolcone.dfm</Transaction>
+    <Transaction>2019/05/28 19:39:11.000.059,=C:\Users\Aluno-E1\Desktop\MeuApp_V4\Unit1.pas</Transaction>
+    <Transaction>2019/05/28 19:44:11.000.367,C:\Users\Aluno-E1\Desktop\MeuApp_V4\Unit1.dfm=C:\Users\Aluno-E1\Desktop\MeuApp_V4\uBancodados.dfm</Transaction>
+    <Transaction>2019/05/28 19:44:11.000.367,C:\Users\Aluno-E1\Desktop\MeuApp_V4\Unit1.pas=C:\Users\Aluno-E1\Desktop\MeuApp_V4\uBancodados.pas</Transaction>
+    <Transaction>2019/05/28 19:58:35.000.742,=C:\Users\Aluno-E1\Desktop\MeuApp_V4\Unit1.pas</Transaction>
+    <Transaction>2019/05/28 19:59:23.000.580,C:\Users\Aluno-E1\Desktop\MeuApp_V4\Unit1.dfm=C:\Users\Aluno-E1\Desktop\MeuApp_V4\uCadastro.dfm</Transaction>
+    <Transaction>2019/05/28 19:59:23.000.580,C:\Users\Aluno-E1\Desktop\MeuApp_V4\Unit1.pas=C:\Users\Aluno-E1\Desktop\MeuApp_V4\uCadastro.pas</Transaction>
+    <Transaction>2019/05/29 19:50:15.000.117,C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolcone.pas=C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumeCone.pas</Transaction>
+    <Transaction>2019/05/29 19:50:15.000.117,C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolcone.dfm=C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumeCone.dfm</Transaction>
+    <Transaction>2019/05/29 19:50:51.000.275,C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolpr.pas=C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumePrisma.pas</Transaction>
+    <Transaction>2019/05/29 19:50:51.000.275,C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolpr.dfm=C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumePrisma.dfm</Transaction>
+    <Transaction>2019/05/29 19:51:16.000.437,C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumec.pas=C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumeCilindro.pas</Transaction>
+    <Transaction>2019/05/29 19:51:16.000.437,C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumec.dfm=C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumeCilindro.dfm</Transaction>
+    <Transaction>2019/05/29 19:54:02.000.988,C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolpt.pas=C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumePrismaTriangular.pas</Transaction>
+    <Transaction>2019/05/29 19:54:02.000.988,C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolpt.dfm=C:\Users\Aluno\Desktop\Meu App V5\MeuApp_V5\uVolumePrismaTriangular.dfm</Transaction>
+    <Transaction>2019/06/03 21:34:49.000.171,=I:\Tecnicas de Programação-Wagner\Meu App V5\MeuApp_V5\Unit1.pas</Transaction>
+    <Transaction>2019/06/03 22:24:50.000.281,I:\Tecnicas de Programação-Wagner\Meu App V5\MeuApp_V5\Unit1.dfm=I:\Tecnicas de Programação-Wagner\Meu App V5\MeuApp_V5\uSobre.dfm</Transaction>
+    <Transaction>2019/06/03 22:24:50.000.280,I:\Tecnicas de Programação-Wagner\Meu App V5\MeuApp_V5\Unit1.pas=I:\Tecnicas de Programação-Wagner\Meu App V5\MeuApp_V5\uSobre.pas</Transaction>
+  </Transactions>
+</BorlandProject>
